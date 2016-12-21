@@ -1,2 +1,2 @@
 # whatever
-A test repository for me.
+A test repository for testing ;-)
