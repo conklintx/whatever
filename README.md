@@ -1,16 +1,7 @@
 # whatever
 A test repository for testing ;-)
 
-Now to update the readme and add a file to be built using make command. Done!
+The 'xcmd' command, as an exercise, is fair game to continue developement. 
 
-Now lets perform a push, and test it's jenkins trigger. Hook failure.
-
-Try again 1; Build worked. Uncertain if trigger is working yet.
-
-Try again 2
-
-Try with webhook 1
-
-
-
+Note: The command is compiled under Ubuntu by Jenkins.
 
