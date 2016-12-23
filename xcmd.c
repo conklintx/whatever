@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(int argc, char **argv)
 {
+	/* Fractial of? */
 	int n, i,fact=1;
 	printf("Enter a number for which you want to find the factorial:: ");
 	scanf("%d", &n);
